@@ -2,6 +2,6 @@
 Evidenciar tendencias de noticias del diario La Tercera
 
 
+![Cobertura de noticia sobre Guerra Israel vs Nueva Constitución](https://github.com/matdknu/Scrap-LaTercera/blob/main/image/grafico.png)
 
 
-<span>![</span><span> Cobertura de noticia sobre Guerra Israel vs Nueva Constitución </span><span>]</span><span>(</span><span>[https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png](https://github.com/matdknu/Scrap-LaTercera/blob/main/image/grafico.png)https://github.com/matdknu/Scrap-LaTercera/blob/main/image/grafico.png</span><span>)</span>
